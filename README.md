@@ -1,6 +1,6 @@
 squid Cookbook
 ==============
-This cookbook makes install and configure squid proxy
+This cookbook makes install and configure squid proxy.
 
 Requirements
 ------------
